@@ -29,10 +29,10 @@ window.forceImageReload = false; // Flag for Cache-Busting on Long Press
   
 // Define local version and Github settings
 
-const pluginVersion = '4.0';
+const pluginVersion = '1.0';
 const pluginName = "Station Logo";
-const pluginHomepageUrl = "https://github.com/nuscarrick/webserver-station-logos/releases";
-const pluginUpdateUrl = "https://raw.githubusercontent.com/nuscarrick/webserver-station-logos/main/StationLogo/updateStationLogo.js";
+const pluginHomepageUrl = "https://github.com/nuscarrick/RadioDataCenter-Station-Logos/releases";
+const pluginUpdateUrl = "https://raw.githubusercontent.com/nuscarrick/RadioDataCenter-Station-Logos/main/StationLogo/updateStationLogo.js";
 const countryListUrl = 'https://tef.noobish.eu/logos/scripts/js/countryList.js';
 const logoBaseURL = 'https://api.fmlist.org/fmscan.com/logobystation.php';
 
